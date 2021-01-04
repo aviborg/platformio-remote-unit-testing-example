@@ -9,11 +9,11 @@
     See the License for the specific language governing permissions and
     limitations under the License.
 
-.. image:: https://travis-ci.com/aviborg/platformio-remote-unit-testing-example.svg?branch=master
-    :target: https://travis-ci.com/aviborg/platformio-remote-unit-testing-example
+.. image:: https://travis-ci.com/aviborg/platformio-remote-unit-testing-example.svg
+    :target: https://github.com/aviborg/platformio-remote-unit-testing-example/actions?query=workflow%3A%22PlatformIO+CI%22
 
 .. image:: https://github.com/aviborg/platformio-remote-unit-testing-example/workflows/PlatformIO%20CI/badge.svg?branch=master
-    :target ![PlatformIO CI](https://github.com/aviborg/platformio-remote-unit-testing-example/workflows/PlatformIO%20CI
+    :target https://github.com/aviborg/platformio-remote-unit-testing-example/workflows/PlatformIO%20CI
 
 PlatformIO Remote Unit Testing Example
 ======================================
