@@ -16,7 +16,7 @@
 
 language: python
 python:
-    - "2.7"
+    - "3.7"
 
 sudo: false
 cache:
@@ -26,15 +26,15 @@ cache:
 install:
     # - pip install -U platformio
     # Use development version of PlatformIO 3.2 (temporary)
-    - pip install -U https://github.com/platformio/platformio/archive/develop.zip
+    - pip install -U https://github.com/platformio/platformio/archive/v5.0.4.zip
 
 
 script:
     - echo "Run desktop (native) tests on Travis.CI Linux machine"
     - platformio test -e native
 
-    - echo "List remote devices"
-    - platformio remote device list
+    #- echo "List remote devices"
+    #- platformio remote device list
 
-    - echo "Run embedded test on remote devices (Arduino Uno and NodeMCU ESP8266)"
-    - platformio remote test -e uno -e nodemcu
+    #- echo "Run embedded test on remote devices (Arduino Uno and NodeMCU ESP8266)"
+    #- platformio remote test -e uno -e nodemcu
