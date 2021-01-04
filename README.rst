@@ -17,6 +17,7 @@ PlatformIO Remote Unit Testing Example
 
 ----------
 
+* `Setup travis <https://docs.travis-ci.com/user/tutorial/#to-get-started-with-travis-ci-using-github>` _
 * `.travis.yml <https://github.com/platformio/platformio-remote-unit-testing-example/blob/master/.travis.yml>`_ configuration file
 * `Travis.CI Test Results <https://travis-ci.org/platformio/platformio-remote-unit-testing-example>`_
 
