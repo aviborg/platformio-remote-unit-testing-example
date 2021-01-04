@@ -13,7 +13,7 @@
     :target: https://travis-ci.com/aviborg/platformio-remote-unit-testing-example
 
 .. image:: https://github.com/aviborg/platformio-remote-unit-testing-example/workflows/PlatformIO%20CI/badge.svg
-    :target: https://github.com/aviborg/platformio-remote-unit-testing-example/workflows/PlatformIO%20CI
+    :target: https://github.com/aviborg/platformio-remote-unit-testing-example/actions?query=workflow%3A%22PlatformIO+CI%22
 
 PlatformIO Remote Unit Testing Example
 ======================================
