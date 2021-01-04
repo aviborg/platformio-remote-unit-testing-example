@@ -9,6 +9,9 @@
     See the License for the specific language governing permissions and
     limitations under the License.
 
+.. image:: https://travis-ci.com/aviborg/platformio-remote-unit-testing-example.svg?branch=master
+    :target: https://travis-ci.com/aviborg/platformio-remote-unit-testing-example
+
 PlatformIO Remote Unit Testing Example
 ======================================
 
@@ -32,4 +35,4 @@ PlatformIO Remote Unit Testing Example
 
 
 .. image:: travis-ci-test-results.png
-    :target: https://travis-ci.org/platformio/platformio-remote-unit-testing-example
+    :target: https://travis-ci.com/aviborg/platformio-remote-unit-testing-example
